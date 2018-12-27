@@ -1,0 +1,7 @@
+.metadata/
+RemoteSystemsTempFiles/
+.git
+bin/
+.classpath
+.project
+.settings
